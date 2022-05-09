@@ -11,7 +11,7 @@
       "skipFiles": [
         // "<node_internals>/**"´
       ],
-      "program": "${workspaceFolder}/require/text.js"
+      "program": "${workspaceFolder}/test/require/index.js"
     }
   ]
 }
